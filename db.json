@@ -1,0 +1,373 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": "buy",
+      "name": "GraphQL by Example",
+      "instructor": "Mirko Nasato",
+      "description": "More and more teams are choosing GraphQL instead of (or along with) REST for their web APIs. GraphQL queries give clients great flexibility in the way they request data from the server, preventing issues such overfetching or underfetching of data, and allowing multiple resources to be retrieved in a single request.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/1657930_7b48_3.jpg",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Friday, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        " node.js",
+        " graphql"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Graph.ql",
+          "content": "Graph.ql"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Graph.ql."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "status": "buy",
+      "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "instructor": "Jonas Schmedtmann",
+      "description": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/851712_fc61_6.jpg",
+      "duration": "16 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        " Advance Javascript"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Javascript",
+          "content": "Javascript"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Javascript."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "status": "buy",
+      "name": "Angular - The Complete Guide (2023 Edition)",
+      "instructor": "Maximilian Schwarzmüller",
+      "description": "Join the most comprehensive and bestselling Angular course on Udemy and learn all about this amazing framework from the ground up, in great depth!",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/756150_c033_2.jpg",
+      "duration": "14 weeks",
+      "schedule": "Monday and Thursdays, 6:00 PM - 9:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "Familiarity with Angular",
+        "MVC"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Angular",
+          "content": "Angilar"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Angular."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "status": "buy",
+      "name": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+      "instructor": "Dr. Angela Yu",
+      "description": "Welcome to the 100 Days of Code - The Complete Python Pro Bootcamp, the only course you need to learn to code with Python. With over 500,000 5 STAR reviews and a 4.8 average, my courses are some of the HIGHEST RATED courses in the history of Udemy!  ",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+      "duration": "22 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "Familiarity with React",
+        "Next.js"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Python",
+          "content": "Python"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Python"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "status": "buy",
+      "name": "Docker & Kubernetes: The Practical Guide [2023 Edition]",
+      "instructor": "Academind by Maximilian Schwarzmüller",
+      "description": "Join this bestselling Docker & Kubernetes course and learn two of the most important development technologies from the ground up, in great detail!",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/3490000_d298_2.jpg",
+      "duration": "11 weeks",
+      "schedule": "Sunday and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "Basic Node.js"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Docker",
+          "content": "Docker"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Docker & Kubernets"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "status": "buy",
+      "course_complete": 10,
+      "name": "Next.js by Example",
+      "instructor": "Mirko Nasato",
+      "description": "Update: this course has now been revised to include the new App Router features, made stable in May 2023 with Next.js v13.4. The first half of the course covers the new App Router, while the remaining half covers the older — but still supported — Pages Router. All the examples work with the latest Next.js v14 as well.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/3941068_d215_3.jpg",
+      "duration": "8 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "Familiarity with React",
+        "Next.js"
+      ],
+      "syllabus": [
+        {
+          "week": 1,
+          "topic": "Introduction to Next.js",
+          "content": "Next.js"
+        },
+        {
+          "week": 2,
+          "topic": "Building Your First App",
+          "content": "Creating a simple mobile app using Next.js."
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "status": "purchased",
+      "course_complete": 33,
+      "name": "Three.js and TypeScript",
+      "instructor": "Mirko Nasato",
+      "description": "Welcome to my course on Three.js and Typescript.In this course we will learn all about Three.js, write it in TypeScript, and also write a HTML client and server component using Webpack and NodeJS.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/2796030_d9a1_2.jpg",
+      "duration": "5 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "node.js",
+        "Three.js"
+      ],
+      "syllabus": [
+        {
+          "week": 12,
+          "topic": "Introduction to Three.js",
+          "content": "Three.js"
+        },
+        {
+          "week": 2,
+          "topic": "uilding Your First App",
+          "content": "Creating a simple mobile app using Three.js"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "status": "purchased",
+      "course_complete": 100,
+      "name": "Microfrontends with React: A Complete Developer's Guide",
+      "instructor": "Stephen Grider",
+      "description": "Thousands of other engineers have learned microfrontends, and you can too. This course uses a time-tested, battle-proven method to make sure you understand exactly how microfrontends work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/3604434_7884_3.jpg",
+      "duration": "9 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "React.js"
+      ],
+      "syllabus": [
+        {
+          "week": 12,
+          "topic": "Introduction to Microfrontend",
+          "content": "React.ks"
+        },
+        {
+          "week": 2,
+          "topic": "uilding Your First App",
+          "content": "Creating a simple mobile app using React.js"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "status": "purchased",
+      "course_complete": 75,
+      "name": "Node JS: Advanced Concepts",
+      "instructor": "Stephen Grider",
+      "description": "Node Internals: Here's one of the most common interview questions you'll face when looking for a Node job: Can you explain Node's Event Loop? There are two types of engineers: those who can describe the Event Loop and those who cannot!  This course will ensure that you are incredibly well prepared to answer that most important question.  Besides being critical for interviews, knowledge of the Event Loop will give you a better understanding of how Node works internally.  Many engineers know not to 'block' the Event Loop, but they don't necessarily understand why.  You will be one of the engineers who can clearly articulate the performance profile of Node and its Event Loop.",
+      "enrollmentStatus": "open",
+      "thumbnail": "https://img-c.udemycdn.com/course/240x135/1587718_8fdf_2.jpg",
+      "duration": "19 weeks",
+      "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+      "location": "online",
+      "prerequisites": [
+        "Basic Javascript",
+        "node.js"
+      ],
+      "syllabus": [
+        {
+          "week": 12,
+          "topic": "Introduction to Node.js",
+          "content": "Node.js"
+        },
+        {
+          "week": 2,
+          "topic": "uilding Your First App",
+          "content": "Creating a simple mobile app using Node.js"
+        }
+      ],
+      "students": [
+        {
+          "id": 101,
+          "name": "Alice Johnson",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 102,
+          "name": "Bob Smith",
+          "email": "bob@example.com"
+        }
+      ]
+    }
+  ]
+}

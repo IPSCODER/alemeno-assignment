@@ -1,0 +1,110 @@
+header{
+    width: 100%;
+    height: 3vw;
+    padding: 0 3%;
+    background-color: #201f1f;
+}
+
+header ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 100%;
+    align-items: center;
+    list-style: none;
+}
+
+header ul li a{
+    color: #fff;
+}
+
+header ul li.searchBar{
+    width: 40vw;
+    height: 2.3vw;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+header ul li.searchBar svg{
+    position: absolute;
+    left: 1vw;
+    width: 2.3vw;
+    height: 2.3vw;
+}
+
+header ul li.searchBar input{
+    width: 100%;
+    border-radius: 2vw;
+    height: 100%;
+    padding-left: 3.5vw;
+    color: #FFF;
+    background-color: transparent;
+    border: 1px solid #fff4;
+    font-size: 14px;
+}
+header ul li.searchBar input::placeholder{
+    color: #fff;
+}
+
+@media screen and (max-width:950px) {
+    header{
+        width: 100%;
+        min-height: 70px;
+        height: 100%;
+        padding: 2% 3%;
+        background-color: #201f1f;
+    }
+    
+    header ul{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+        height: 100%;
+        align-items: flex-start;
+        list-style: none;
+        flex-direction: column;
+        gap: 10px;
+        position: relative;
+    }
+    
+    header ul li a{
+        color: #fff;
+    }
+
+    header ul li:nth-child(3){
+        position: absolute;
+        right: 5%;
+        top: 5%;
+        z-index: 11;
+    }
+    
+    header ul li.searchBar{
+        width: 100%;
+        height: 50px;
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+    
+    header ul li.searchBar svg{
+        position: absolute;
+        left: 3%;
+        width: 30px;
+        height: 30px;
+    }
+    
+    header ul li.searchBar input{
+        width: 100%;
+        border-radius: 25px;
+        height: 100%;
+        padding-left: 45px;
+        color: #FFF;
+        background-color: transparent;
+        border: 1px solid #fff4;
+        font-size: 14px;
+    }
+    header ul li.searchBar input::placeholder{
+        color: #fff;
+    }
+}
